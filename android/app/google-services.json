@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29213592389",
+    "project_id": "chat-app-6f1b1",
+    "storage_bucket": "chat-app-6f1b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29213592389:android:ec4cfb99d4e489d5f68c2c",
+        "android_client_info": {
+          "package_name": "com.yazlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29213592389-3ldrh3m5pus93ih08b8mp61q164dnp90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClCzP3mrjUVXjMyE8c2oqfnNeyKsBTdY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29213592389-3ldrh3m5pus93ih08b8mp61q164dnp90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
